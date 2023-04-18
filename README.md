@@ -10,7 +10,7 @@ CONTRIBUTION : Pavani - Manually solved few examples of Alpha-Beta Pruning ,wrot
 Minimax and then coded the logic forAlpha-Beta Pruning . Merged two algorithm codes .Tried all test cases provided along with different examples and executed the code successfully.
 
 HOW TO RUN THE CODE-  1)copy and paste the source code to main.py 
-                      2)upload input.txt file .The inout.txt file contains the any one testcase out of 3 
+                      2)upload input.txt file ,The input.txt file contains the any one testcase out of 3 provided
                       3)Run the code
                       4)output / output.txt file appears according to the input passed.
            
